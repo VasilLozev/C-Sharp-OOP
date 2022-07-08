@@ -1,0 +1,16 @@
+C:\Users\Vasil\Desktop\new_Heroes\Heroes\obj\Debug\netcoreapp3.1\Heroes.csproj.AssemblyReference.cache
+C:\Users\Vasil\Desktop\new_Heroes\Heroes\obj\Debug\netcoreapp3.1\Heroes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vasil\Desktop\new_Heroes\Heroes\obj\Debug\netcoreapp3.1\Heroes.AssemblyInfoInputs.cache
+C:\Users\Vasil\Desktop\new_Heroes\Heroes\obj\Debug\netcoreapp3.1\Heroes.AssemblyInfo.cs
+C:\Users\Vasil\Desktop\new_Heroes\Heroes\obj\Debug\netcoreapp3.1\Heroes.csproj.CoreCompileInputs.cache
+C:\Users\Vasil\Desktop\new_Heroes\Heroes\bin\Debug\netcoreapp3.1\Heroes.exe
+C:\Users\Vasil\Desktop\new_Heroes\Heroes\bin\Debug\netcoreapp3.1\Heroes.deps.json
+C:\Users\Vasil\Desktop\new_Heroes\Heroes\bin\Debug\netcoreapp3.1\Heroes.runtimeconfig.json
+C:\Users\Vasil\Desktop\new_Heroes\Heroes\bin\Debug\netcoreapp3.1\Heroes.runtimeconfig.dev.json
+C:\Users\Vasil\Desktop\new_Heroes\Heroes\bin\Debug\netcoreapp3.1\Heroes.dll
+C:\Users\Vasil\Desktop\new_Heroes\Heroes\bin\Debug\netcoreapp3.1\Heroes.pdb
+C:\Users\Vasil\Desktop\new_Heroes\Heroes\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\Vasil\Desktop\new_Heroes\Heroes\obj\Debug\netcoreapp3.1\Heroes.csproj.CopyComplete
+C:\Users\Vasil\Desktop\new_Heroes\Heroes\obj\Debug\netcoreapp3.1\Heroes.dll
+C:\Users\Vasil\Desktop\new_Heroes\Heroes\obj\Debug\netcoreapp3.1\Heroes.pdb
+C:\Users\Vasil\Desktop\new_Heroes\Heroes\obj\Debug\netcoreapp3.1\Heroes.genruntimeconfig.cache
